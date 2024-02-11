@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-brunosantos&show_icons=true&theme=dark)
 
+
 ## Tecnologias do meu Dia
 
 <div style="display: inline_block"><br/>
@@ -23,4 +24,8 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
     <img align="center" alt="css" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+</div> <br/>
+
+<hr/> <br/>
+Sou um desenvolvedor com experiência em Javascript, dedicado a transformar ideias em soluções inovadoras por meio do domínio desta
+poderosa linguagem de programação
