@@ -30,3 +30,49 @@
 </div> <br/>
 
 <hr/> 
+
+# Bruno Santos - Desenvolvedor Júnior
+
+## Sobre Mim
+Olá! Meu nome é Bruno Santos e sou um desenvolvedor júnior apaixonado por tecnologia e programação. Tenho experiência com uma variedade de tecnologias e estou sempre buscando aprender mais e aprimorar minhas habilidades.
+
+## Habilidades
+
+### Linguagens de Marcação e Estilo, Linguagens de Programação  
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+### Frameworks e Bibliotecas
+- React
+- React Native
+- Next.js
+- Electron
+
+### Estilização
+- Sass
+- Scss
+- Bootstrap
+- Tailwind CSS
+- Styled-components
+
+### Banco de Dados
+- MongoDB
+- Firebase
+- Oracle
+- MySQL
+
+
+### Backend
+- Node.js
+- Express
+- Sequelize
+- Mongoose
+
+## Contato
+- Email: [seuemail@example.com](mailto:seuemail@example.com)
+- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
+- GitHub: [github.com/seuusername](https://github.com/seuusername)
+
+
