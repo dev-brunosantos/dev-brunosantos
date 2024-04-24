@@ -38,9 +38,8 @@ Olá! Meu nome é Bruno Santos e sou um desenvolvedor júnior apaixonado por tec
 
 ## Habilidades
 
-### Linguagens de Marcação e Estilo, Linguagens de Programação  
+### Linguagens de Marcação e Linguagens de Programação  
 - HTML
-- CSS
 - JavaScript
 - TypeScript
 
@@ -51,6 +50,7 @@ Olá! Meu nome é Bruno Santos e sou um desenvolvedor júnior apaixonado por tec
 - Electron
 
 ### Estilização
+- CSS
 - Sass
 - Scss
 - Bootstrap
@@ -71,8 +71,7 @@ Olá! Meu nome é Bruno Santos e sou um desenvolvedor júnior apaixonado por tec
 - Mongoose
 
 ## Contato
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
-- GitHub: [github.com/seuusername](https://github.com/seuusername)
+- Email: [brunosdesenvolvedor@gmail.com](mailto:brunosdesenvolvedor@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/dev-bruno-santos](https://www.linkedin.com/in/dev-bruno-santos)
 
 
