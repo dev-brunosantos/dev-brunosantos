@@ -49,11 +49,14 @@ Tenho experiência com uma variedade de tecnologias e estou sempre em busca de n
 - CSS - Sass - Scss - Bootstrap - Tailwind CSS - Styled-components
 
 ### Banco de Dados
-- MongoDB - Firebase - Oracle - MySQL
+- MongoDB - Firebase - Oracle - MySQL - SqlServer - Pôsteres - FireBird
 
 
 ### Backend
-- Node.js - Express - Sequelize - Mongoose
+- Node.js - Express 
+
+### ORM 
+- Sequelize - Mongoose - Prisma
 
 ## Contato
 - Email: [brunosdesenvolvedor@gmail.com](mailto:brunosdesenvolvedor@gmail.com)
