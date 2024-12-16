@@ -9,7 +9,11 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
 
 ### Front-end | Back-end | Mobile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-brunosantos&show_icons=true&theme=dark)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunosantos&hide_progress=true&theme=dark" width="400" height="168" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-brunosantos&show_icons=true&theme=dark" width="400" />
+</div>
+
 
 ## Contato
 - Email: [brunosdesenvolvedor@gmail.com](mailto:brunosdesenvolvedor@gmail.com)
