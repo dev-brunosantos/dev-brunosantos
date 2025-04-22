@@ -83,7 +83,7 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
     </td>
     <td style="border: none;">
       <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px; position: relative;">
-        <img src="images/icons/react-native.png"/>
+        <img src="icons/react-native.png" style="width: 50px; "/>
         <p style="padding: 0; margin: 0; font-size: 14px;">React Native</p>
       </div>
     </td>
