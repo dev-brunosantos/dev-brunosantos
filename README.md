@@ -1,11 +1,16 @@
-# Bruno Santos
+<h1 align="center">Bruno Santos</h1>
 
 
-### Olá! Meu nome é Bruno Santos e sou um desenvolvedor apaixonado por tecnologia e programação.  
-Tenho experiência com uma variedade de tecnologias e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades. 
-Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ideias em soluções inovadoras por meio do domínio desta poderosa linguagem de programação
+<h3 align="center">
+  Olá! Meu nome é Bruno Santos e sou um desenvolvedor apaixonado por tecnologia e programação.
+</h3>  
+  
+<p align="center">
+  Tenho experiência com uma variedade de tecnologias e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades. 
+  Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ideias em soluções inovadoras por meio do domínio desta poderosa linguagem de programação
+</p>
 
-## Habilidades
+<h2 align="center">Habilidades</h2>
 
 <table align="center">
   <tr >
@@ -18,7 +23,7 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
   </tr>
 </table>
 
-## ⚡ Tecnologias
+<h2 align="center">⚡ Tecnologias</h2>
 
 <h4 align="center">FRONTED</h4>
 
@@ -143,7 +148,8 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
   </tr>
 </table>
 
-## Contato
+<h2 align="center">Contatos</h2>
+
 - Email: [brunosdesenvolvedor@gmail.com](mailto:brunosdesenvolvedor@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/dev-bruno-santos](https://www.linkedin.com/in/dev-bruno-santos)
 - Portfólio: [https://brunos-dev-sigma.vercel.app](https://brunos-dev-sigma.vercel.app)
