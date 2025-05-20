@@ -20,7 +20,7 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
 
 ## ⚡ Tecnologias
 
-<h2 align="center">FRONTED</h2>
+<h4 align="center">FRONTED</h4>
 
 <table align="center">
   <tr>
@@ -77,7 +77,7 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
   </tr>
 </table>
 
-<h2 align="center">BACKEND</h2>
+<h4 align="center">BACKEND</h4>
 
 <table align="center">
   <tr>
@@ -108,7 +108,7 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
   </tr>
 </table>
 
-<h2 align="center">DATABASE</h2>
+<h4 align="center">DATABASE</h4>
 
 <table align="center">
   <tr>
