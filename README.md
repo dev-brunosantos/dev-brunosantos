@@ -7,186 +7,138 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
 
 ## Habilidades
 
-### Front-end | Back-end | Mobile
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunosantos&hide_progress=true&theme=dark" width="400" height="168" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-brunosantos&show_icons=true&theme=dark" width="400" />
-</div>
+<table align="center">
+  <tr >
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brunosantos&hide_progress=true&theme=dark" width="400" height="168" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dev-brunosantos&show_icons=true&theme=dark" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Tecnologias
 
+<h2 align="center">FRONTED</h2>
+
 <table align="center">
   <tr>
-    <td style="border: none;" colspan="4" align="center">
-      <h2>FRONT-END</h2>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br />
+      <sub>HTML5</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br />
+      <sub>CSS3</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/><br />
+      <sub>Bootstrap</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60"/><br />
+      <sub>Sass</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60"/><br />
+      <sub>Tailwind</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br />
+      <sub>JavaScript</sub>
     </td>
   </tr>
-  <tr align="center">
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-        <p style="padding: 0; margin: 0;">HTML5</p>
-      </div>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br />
+      <sub>TypeScript</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-        <p style="padding: 0; margin: 0;">CSS3</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="60"/><br />
+      <sub>Angular</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-        <p style="padding: 0; margin: 0;">Bootstrap</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br />
+      <sub>React</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-        <p style="padding: 0; margin: 0;">Sass</p>
-      </div>
+    <td align="center">
+      <img src="icons/react-native.png" width="60"/><br />
+      <sub>React Native</sub>
     </td>
-  </tr>
-  <tr align="center">
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-        <p style="padding: 0; margin: 0;">Tailwind</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="60"/><br />
+      <sub>Electron</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-        <p style="padding: 0; margin: 0;">Javascript</p>
-      </div>
-    </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-        <p style="padding: 0; margin: 0;">Typescript</p>
-      </div>
-    </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
-        <p style="padding: 0; margin: 0;">Angular</p>
-      </div>
-    </td>
-  </tr>
-  <tr align="center">
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-        <p style="padding: 0; margin: 0;">React</p>
-      </div>
-    </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px; position: relative;">
-        <img src="icons/react-native.png" style="width: 50px; "/>
-        <p style="padding: 0; margin: 0; font-size: 14px;">React Native</p>
-      </div>
-    </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
-        <p style="padding: 0; margin: 0;">Electron JS</p>
-      </div>
-    </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-        <p style="padding: 0; margin: 0;">Next JS</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/><br />
+      <sub>Next.js</sub>
     </td>
   </tr>
 </table>
 
-<table width="400" align="center">
+<h2 align="center">BACKEND</h2>
+
+<table align="center">
   <tr>
-    <td style="border: none;" colspan="3" align="center">
-      <h2>BACK-END</h2>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br />
+      <sub>Node.js</sub>
     </td>
-  </tr>
-  <tr align="center">
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-        <p style="padding: 0; margin: 0;">Node JS</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/><br />
+      <sub>Express</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-        <p style="padding: 0; margin: 0;">Express</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60"/><br />
+      <sub>NestJS</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
-        <p style="padding: 0; margin: 0;">Nest JS</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="60"/><br />
+      <sub>Prisma</sub>
     </td>
-  </tr>
-  <tr align="center">
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
-        <p style="padding: 0; margin: 0;">Prisma</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="60"/><br />
+      <sub>Sequelize</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
-        <p style="padding: 0; margin: 0;">Sequelize</p>
-      </div>
-    </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-        <p style="padding: 0; margin: 0;">C#</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/><br />
+      <sub>C#</sub>
     </td>
   </tr>
 </table>
 
-<table width="400" align="center">
+<h2 align="center">DATABASE</h2>
+
+<table align="center">
   <tr>
-    <td style="border: none;" colspan="3" align="center">
-      <h2>DATABASE</h2>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br />
+      <sub>MySQL</sub>
     </td>
-  </tr>
-  <tr align="center">
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-        <p style="padding: 0; margin: 0;">MySql</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br />
+      <sub>PostgreSQL</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-        <p style="padding: 0; margin: 0;">PostgreSql</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60"/><br />
+      <sub>SqLite</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-        <p style="padding: 0; margin: 0;">Oracle Sql</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60"/><br />
+      <sub>Oracle SQL</sub>
     </td>
-  <tr align="center">
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-        <p style="padding: 0; margin: 0;">MongoDB</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br />
+      <sub>MongoDB</sub>
     </td>
-    <td style="border: none;">
-      <div style="background-color: transparent;  padding: 6px 13px; font-size: 16px; width: 80px; height: 110px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
-        <p style="padding: 0; margin: 0;">Firebase</p>
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="60"/><br />
+      <sub>Firebase</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60"/><br />
+      <sub>Supabase</sub>
     </td>
   </tr>
 </table>
@@ -195,5 +147,3 @@ Sou um desenvolvedor com experiência em Javascript, dedicado em transformar ide
 - Email: [brunosdesenvolvedor@gmail.com](mailto:brunosdesenvolvedor@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/dev-bruno-santos](https://www.linkedin.com/in/dev-bruno-santos)
 - Portfólio: [https://brunos-dev-sigma.vercel.app](https://brunos-dev-sigma.vercel.app)
-
-
